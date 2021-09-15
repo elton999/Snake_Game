@@ -1,0 +1,19 @@
+
+Ricardo Andere de Mello14:04
+1- Montar e posicionar um grid tamanho aXb na tela
+2- Colocar cabeça da cobra no grid
+3- Mover cabeça na direção designada (usado setas teclado)
+Ricardo Andere de Mello14:51
+4- Checar os limites do grid ao mover (Game over)
+5- Adicionar e mover o corpo da cobra ( tamanho 3 )
+6- Checar colisão da cabeça com o corpo ( Gameover )
+Ricardo Andere de Mello15:19
+1- Montar e posicionar um grid tamanho aXb na tela
+2- Colocar cabeça da cobra no grid
+3- Mover cabeça na direção designada (usado setas teclado)
+4- Checar os limites do grid ao mover (Game over)
+5- Adicionar e mover o corpo da cobra ( tamanho 3 )
+6- Checar colisão da cabeça com o corpo ( Gameover )
+7- Adicionar a maçã no grid
+8- Checar a colisão com maçã e crescer a cobra
+9- Adicionar paredes de obstáculo
